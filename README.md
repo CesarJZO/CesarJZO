@@ -2,6 +2,7 @@
 - 👀 I’m interested in web, mobile and game development.
 - 🌱 I’m currently learning Unity and C.
 - 📫 You can find me on [Twitter](https://twitter.com/CesarJZO), my learning progress on [Unity Learn](https://learn.unity.com/u/cesarjzo?tab=activity) and [Domĕstika](https://www.domestika.org/es/cesarjzo), also I have a [Reddit](https://www.reddit.com/user/CesarJZO) and, of course, my email cesarjzo@outlook.com
+- 👔 Just create my [LinkedIn](https://www.linkedin.com/in/cesarjzo/) account! And soon I'll create my first proper portfolio.
 
 I am a videogame lover since I was a child. I started to study Computer systems engineering because I wanted to create games, that is my passion.
 Nonetheless, I am interested in other areas such as mobile apps, web development and UX/UI. I have worked before making texture packs, so I have
