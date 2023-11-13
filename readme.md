@@ -17,7 +17,7 @@ I am a 22 year old talented and proactive programmer, passionate about game deve
 - **Testing:** Unit Testing with `xUnit`
 - **Web Development:** `ASP.NET`, `HTML/CSS`, `Firebase`
 - **Database:** `PostgreSQL`, `Oracle DBMS`
-- **Tools:** `Git`, `WSL`, `.NET Core`, `.NET Framework`, `.NET CLI`
+- **Tools:** `Git`, `WSL`, `.NET Core`, `.NET Framework`, `.NET CLI`, `PlasticSCM`
 - **Shell:** `Bash`, `zsh`, `PowerShell`
 - **IDE:** `Visual Studio Code`, `JetBrains Rider`, `Vim`, `Visual Studio`
 
