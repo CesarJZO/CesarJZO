@@ -1,8 +1,32 @@
-- 👋 Hi, I’m @CesarJZO
-- 👀 I’m interested in game development and operating systems.
-- 🌱 I’m currently learning Unity and C with **The C Programming Language** [book](https://en.wikipedia.org/wiki/The_C_Programming_Language).
-- 📫 You can find me on [Twitter](https://twitter.com/CesarJZO), my game dev learining progress on [Unity Learn](https://learn.unity.com/u/cesarjzo?tab=activity), also I have a [Reddit](https://www.reddit.com/user/CesarJZO) and, of course, my email cesarjzo@outlook.com
-- 👔 Just created my [LinkedIn](https://www.linkedin.com/in/cesarjzo/) account! And soon I'll create my first proper portfolio.
+# 👋 Hello, I'm César Zárate!
 
-I love videogames since I was a child. I started to study Computer systems engineering because I wanted to create games. Today, I'm fulfilling that dream making games using Unity.
-Nonetheless, I am interested in other areas such as operating systems, I love to use the terminal, so I'm learning C (btw I want to make a DOOM port).
+I am a 22 year old talented and proactive programmer, passionate about game development, operating systems and web development. Currently, I serve as a project manager and programming director for a small team at [Playstorm Studios](https://playstormstudios.com/). I thrive on the challenges and creativity that game development brings such as performance and working with a multidisciplinary team.
+
+## 🚀 About Me
+
+- 🔭 I’m currently working on **managing projects** and **directing** programming efforts for a game studio.
+- 🌱 I’m currently learning web development with **ASP.NET**, **React** and **Firebase**.
+- 👯 I’m looking to collaborate on projects where I can **learn** from experienced professionals and continue to **grow in my career**.
+- 🤔 I’m looking for help with exploring advanced **web development** concepts and **best practices**.
+- 💬 Ask me about **game development**, **productivity tools**, **terminals**, **C#**, **Git**, **Unity**, or anything related to **programming**!
+
+## 🛠️ Skills
+
+- **Languages:** `C#`, `C`, `Java`, `Python`, `JavaScript`
+- **Frameworks:** `Unity`, `ASP.NET`, `React`, `MonoGame`
+- **Testing:** Unit Testing with `xUnit`
+- **Web Development:** `ASP.NET`, `HTML/CSS`, `Firebase`
+- **Database:** `PostgreSQL`, `Oracle DBMS`
+- **Tools:** `Git`, `WSL`, `.NET Core`, `.NET Framework`, `.NET CLI`
+- **Shell:** `Bash`, `zsh`, `PowerShell`
+- **IDE:** `Visual Studio Code`, `JetBrains Rider`, `Vim`, `Visual Studio`
+
+## 📈 GitHub Stats
+
+[![César Zárate's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CesarJZO&show_icons=true&count_private=true&hide=contribs&theme=dracula)](https://github.com/CesarJZO)
+
+
+## 📫 Get in Touch
+
+- Email: cesarjzo@outlook.com
+- LinkedIn: [César Zárate](https://www.linkedin.com/in/cesarjzo/)
