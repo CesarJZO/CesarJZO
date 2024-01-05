@@ -1,6 +1,6 @@
 # 👋 Hello, I'm César Zárate!
 
-I am a 22-year-old talented and proactive programmer, passionate about game development, operating systems, and web development. I am a project manager and programming director for a small team at [Playstorm Studios](https://playstormstudios.com/). I thrive on game development's challenges and creativity, such as critical performance and working with a multidisciplinary team.
+I am a 22-year-old talented and proactive programmer, passionate about game and web development. I am a project manager and programming director for a small team at [Playstorm Studios](https://playstormstudios.com/). I thrive on game development's challenges and creativity, such as critical performance and working with a multidisciplinary team.
 
 ## 🚀 About Me
 
