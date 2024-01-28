@@ -24,7 +24,9 @@ I am a 22-year-old talented and proactive programmer, passionate about game and 
 ## 📈 GitHub Stats
 
 ![César's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CesarJZO&show_icons=true&count_private=true&theme=dracula "César's GitHub Stats")
+
 ![César's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CesarJZO&theme=dracula "César's GitHub Streak")
+
 ![César's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CesarJZO&theme=dracula&layout=compact "César's GitHub Top Languages")
 
 ## 📫 Get in Touch
