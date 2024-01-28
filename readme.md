@@ -23,11 +23,20 @@ I am a 22-year-old talented and proactive programmer, passionate about game and 
 
 ## 📈 GitHub Stats
 
-[![César Zárate's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CesarJZO&show_icons=true&count_private=true&theme=dracula)]()
-
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=CesarJZO&theme=dracula)]()
-
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CesarJZO&theme=dracula)]()
+<section style="display: flex; flex-direction: column">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=CesarJZO&show_icons=true&count_private=true&theme=dracula"
+    alt="César's GitHub Stats"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=CesarJZO&theme=dracula"
+    alt="César's GitHub Streak"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CesarJZO&theme=dracula"
+    alt="César's GitHub Top Languages"
+  />
+</section>
 
 
 ## 📫 Get in Touch
