@@ -14,7 +14,7 @@ I am a 22-year-old talented and proactive programmer, passionate about game and 
 
 - **Languages:** `C#`, `TypeScript`, `Python`, `C`, `Java`
 - **Game Development:** `Unity`, `Godot`, `MonoGame`
-- **Web Development:** `React`, `ASP.NET`, `HTML/CSS`, `Firebase`, `Express`
+- **Web Development:** `Astro`, `React`, `ASP.NET`, `HTML/CSS`, `Firebase`, `Express`
 - **Databases:** `PostgreSQL`
 - **Tools:** `Git`, `Vite`, `WSL`, `.NET Core`, `.NET Framework`, `.NET CLI`, `PlasticSCM`
 - **Testing:** `xUnit`, `mochajs`
